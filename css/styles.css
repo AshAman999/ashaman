@@ -1,0 +1,95 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    height: 100vx;
+    background-color:#80ff80;
+
+}
+
+.navbar-style{
+
+     box-shadow: 0 5px 5px #efefef;
+     text-transform: uppercase;
+     font-weight: bold;
+}
+
+.logo{
+    height: 50px;
+    padding: 2px 5px;
+  
+}
+
+.icon-bar{
+  
+  background:crimson;
+}
+li a {
+    color: black;
+}
+.big-text{
+    text-align: center;
+    font-size: 54;
+    margin: 20px 0;
+    color: gold;
+background-color: darkorange;
+border-radius: 20%;
+padding: 30px;
+}   
+.btn-first,.btn-first1{
+color:whitesmoke;;
+padding: 0px 20px 0px 20px;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+background-color: crimson;
+text-align: center;
+
+}
+.app{
+float: auto;
+flex-direction: column;
+  
+}
+.img-responsive{
+    border-radius: 200%;
+
+}
+
+.namee{text-align: center;
+    -ms-text-size-adjust: auto;
+    text-shadow: black;
+    font-style: oblique;
+    font-weight: bolder;
+   font-family: cursive;
+padding-left: 50px;
+border-radius: 20%;
+
+}
+.hello li{
+    text-decoration: dotted;
+    text-align: center;
+    color: red;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    padding: 8px;
+    border-radius: 40%;
+}
+.footer{
+text-align: center;
+background-color: cadetblue;
+
+}
+.bodeey{
+
+ background-color:#99ff33
+}
+
+
+.col-sm-6{
+    text-align: center;
+}
